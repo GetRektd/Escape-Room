@@ -52,6 +52,9 @@ public class SpawnManager : MonoBehaviour
         counter --;
     }
 
+   
+
+
     
 
 
