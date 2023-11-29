@@ -20,6 +20,6 @@ public class DetectCollisions : MonoBehaviour
 
     {
 
-       if(collision.gameObject.Compare("k"))
+       
     }
 }
